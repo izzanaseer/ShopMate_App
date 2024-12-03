@@ -43,12 +43,16 @@ A mobile application built with Android Studio that allows users to manage their
 
 ## Installation
 
-1. Open the project in Android Studio.
-2. Sync the Gradle files.
-3. Configure Firebase:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/izzanaseer/ShopMate_App.git
+   cd shopping-list-app
+2. Open the project in Android Studio.
+3. Sync the Gradle files.
+4. Configure Firebase:
    - Add the `google-services.json` file to the `app` folder.
    - Enable **Firebase Authentication**, **Realtime Database**, and **Firestore** in your Firebase project.
-4. Run the app on an emulator or physical device.
+5. Run the app on an emulator or physical device.
 
 ---
 
